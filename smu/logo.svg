@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" href="#object-0"/>
+      <bx:file format="svg" href="#object-1" path="Untitled 2.svg"/>
+      <bx:file format="svg" href="#object-2" path="Untitled 3.svg"/>
+      <bx:file format="svg" href="#object-3" path="Untitled 4.svg"/>
+    </bx:export>
+    <bx:grid x="0" y="0" width="15.73" height="17.603"/>
+  </defs>
+  <path d="M 250.094 5 L 461.735 127.191 L 461.735 371.573 L 250.094 493.764 L 38.453 371.573 L 38.453 127.191 Z" bx:shape="n-gon 250.094 249.382 244.382 244.382 6 0 1@d1328bfd" style="paint-order: fill; stroke: rgb(4, 65, 48); fill: rgb(255, 255, 255); stroke-width: 10px;" id="object-0"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(4, 65, 48);" d="M 436.73 131.793 L 252.143 24.666 L 136.463 92.601 L 274.27 171.619 L 250.246 185.527 L 113.705 105.875 L 67.557 131.793 L 250.246 237.995 L 365.929 172.251 L 230.019 92.601 L 253.056 78.685 L 388.687 157.081 L 436.73 131.793 Z" id="object-1"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(4, 65, 48);" d="M 53.456 150.996 L 54.046 365.295 L 98.787 389.434 L 98.787 231.653 L 122.925 244.017 L 122.925 404.74 L 167.668 429.217 L 167.668 271.689 L 191.806 285.227 L 192.396 443.596 L 237.139 470.679 L 237.139 252.364 L 53.456 150.996 Z" id="object-2"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(4, 65, 48);" d="M 403.691 334.493 L 310.082 388.068 L 310.082 227.341 L 266.656 250.49 L 265.339 466.371 L 447.846 359.807 L 447.846 149.04 L 404.28 174.354 L 403.691 334.493 Z" id="object-3"/>
+</svg>
